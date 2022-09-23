@@ -1,12 +1,45 @@
 {
-    "users": [
-        { "id": "23", "firstName": "parvez", "age": 59, "companyId": "1" },
-        { "id": "47", "firstName": "amanullah", "age": 75, "companyId": "2" },
-        { "id": "39", "firstName": "aman", "age": 39, "companyId": "1" },
-        { "id": "43", "firstName": "man", "age": 47, "companyId": "2" }
-    ],
-    "companies": [
-        {"id": "1", "name": "Apple", "description": "mobile manufacturer"},
-        {"id": "2", "name": "intel", "description": "processor assessmbly"}
-    ]
+  "users": [
+    {
+      "id": "23",
+      "firstName": "parvez",
+      "age": 59,
+      "companyId": "1"
+    },
+    {
+      "id": "47",
+      "firstName": "amanullah",
+      "age": 75,
+      "companyId": "2"
+    },
+    {
+      "id": "39",
+      "firstName": "aman",
+      "age": 39,
+      "companyId": "1"
+    },
+    {
+      "id": "43",
+      "firstName": "man",
+      "age": 47,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Amanullah Parvez",
+      "age": 65,
+      "id": "1QDCxHS"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "mobile manufacturer"
+    },
+    {
+      "id": "2",
+      "name": "intel",
+      "description": "processor assessmbly"
+    }
+  ]
 }
