@@ -23,27 +23,6 @@
       "firstName": "man",
       "age": 47,
       "companyId": "2"
-    },
-    {
-      "firstName": "Amanullah Parvez",
-      "age": 65,
-      "id": "1QDCxHS"
-    },
-    {
-      "firstName": "Amanullah Parvez",
-      "age": 65,
-      "id": "tQqrTN1"
-    },
-    {
-      "firstName": "Amanullah Parvez",
-      "age": 65,
-      "id": "k7yJrrw"
-    },
-    {
-      "firstName": "Amanullah Parvez",
-      "age": 65,
-      "companyId": "1",
-      "id": "5tRw182"
     }
   ],
   "companies": [
